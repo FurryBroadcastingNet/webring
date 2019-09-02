@@ -3,10 +3,5 @@
         "title": "Logan's Untitled Adventures",
         "url": "http://lua.thecomicseries.com/",
         "feed": null
-    },
-    {
-        "title": "CogDog's Blog",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
     }
 ]
