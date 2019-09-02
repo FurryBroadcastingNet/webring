@@ -1,13 +1,13 @@
 {
     "title": "Fur Ring: The Furry Ring Reborn",
     "description": "In 1996 Mark Freid created a webring for the Furry Fandom and went offline in 1999 due to the several acquisions of the webring.org site/service. It was this very webring that helped keep all the sites together and away from the blood-thirsty media who likes to poke fun at our community and rile our fur. To join the ring is simple, fill out the form below, add the snippet of code to your site, and the rest is well - the rest.",
-    "image": "freakazoid.jpg",
+    "image": "frlogo2.gif",
     "url": "https://furring.netlify.com/",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Logan Bamaisin",
+            "url": "https://github.com/logansryche"
         }
     ]
 }
