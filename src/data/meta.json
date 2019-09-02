@@ -1,8 +1,8 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "Fur Ring: The Furry Ring Reborn",
+    "description": "In 1996 Mark Freid created a webring for the Furry Fandom and went offline in 1999 due to the several acquisions of the webring.org site/service. It was this very webring that helped keep all the sites together and away from the blood-thirsty media who likes to poke fun at our community and rile our fur. To join the ring is simple, fill out the form below, add the snippet of code to your site, and the rest is well - the rest.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://furring.netlify.com/",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
         {
