@@ -1,6 +1,6 @@
 {
     "title": "Fur Ring: The Furry Ring Reborn",
-    "description": "In 1996 Mark Freid created a webring for the Furry Fandom and went offline in 1999 due to the several acquisions of the webring.org site/service. It was this very webring that helped keep all the sites together and away from the blood-thirsty media who likes to poke fun at our community and rile our fur. To join the ring is simple, fill out the form below and add the snippet of code to your site. For those that want to view what the origional site looked like, click <a href="http://web.archive.org/web/19990503143315/http://wolf.tierranet.com:80/furring.html" target="new">here</a>.",
+    "description": "In 1996 Mark Freid created a webring for the Furry Fandom and went offline in 1999 due to the several acquisions of the webring.org site/service. It was this very webring that helped keep all the sites together and away from the blood-thirsty media who likes to poke fun at our community and rile our fur. To join the ring is simple, fill out the form below and add the snippet of code to your site.",
     "image": "frlogo2.gif",
     "url": "https://furring.netlify.com/",
     "repo": "https://github.com/maxboeck/webring",
