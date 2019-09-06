@@ -12,7 +12,7 @@
     {
         "title": "Logan's Untitled Adventures",
         "url": "http://lua.thecomicseries.com/",
-        "feed": null
+        "feed": "http://lua.thecomicseries.com/rss/",
     },
         {
         "title": "Panda Jenn's DeviantArt",
