@@ -1,5 +1,5 @@
 [
-        {
+    {
         "title": "Furryhart Studio",
         "url": "http://furryhartstudio.com",
         "feed": null
@@ -12,9 +12,9 @@
     {
         "title": "Logan's Untitled Adventures",
         "url": "http://lua.thecomicseries.com/",
-        "feed": "http://lua.thecomicseries.com/rss/",
+        "feed": "http://lua.thecomicseries.com/rss/"
     },
-        {
+    {
         "title": "Panda Jenn's DeviantArt",
         "url": "https://www.deviantart.com/panda-jenn",
         "feed": null
@@ -22,7 +22,7 @@
     {
         "title": "Simply Panda Jenn",
         "url": "http://pandajenn.thecomicseries.com/",
-        "feed": "http://pandajenn.thecomicseries.com/rss/"  
+        "feed": "http://pandajenn.thecomicseries.com/rss/"
     },
     {
         "title": "Spazman's Crypt",
@@ -33,5 +33,5 @@
         "title": "The Couch Kitties",
         "url": "http://couchkitties.smackjeeves.com",
         "feed": null
-    } 
+    }
 ]
