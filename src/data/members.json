@@ -11,33 +11,13 @@
     },
     {
         "title": "FurNation Reborn",
-        "url": "https://furnation.rf.gd",
-        "feed": null
-    },
-    {
-        "title": "Logan's DeviantArt",
-        "url": "https://www.deviantart.com/logansryche",
-        "feed": null
-    },
-    {
-        "title": "Logan's FurAffinity",
-        "url": "https://www.furaffinity.net/user/logansryche",
+        "url": "https://fnreborn.tk",
         "feed": null
     },
     {
         "title": "Logan's Untitled Adventures",
         "url": "http://lua.thecomicseries.com/",
         "feed": "http://lua.thecomicseries.com/rss/"
-    },
-    {
-        "title": "Panda Jenn's DeviantArt",
-        "url": "https://www.deviantart.com/panda-jenn",
-        "feed": null
-    },
-    {
-        "title": "Panda Jenn Productions",
-        "url": "https://furnation.rf.gd/pandajenn.html",
-        "feed": null
     },
     {
         "title": "Simply Panda Jenn",
@@ -47,11 +27,6 @@
     {
         "title": "Spazman's Crypt",
         "url": "http://www.spazmanscrypt.com",
-        "feed": null
-    },
-    {
-        "title": "The Couch Kitties",
-        "url": "http://couchkitties.smackjeeves.com",
         "feed": null
     }
 ]
