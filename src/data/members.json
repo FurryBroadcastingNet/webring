@@ -16,13 +16,18 @@
     },
     {
         "title": "Logan's Untitled Adventures",
-        "url": "http://lua.thecomicseries.com/",
-        "feed": "http://lua.thecomicseries.com/rss/"
+        "url": "http://lua.thecomicseries.com",
+        "feed": "http://lua.thecomicseries.com/rss"
+    },
+    {
+        "title": "Sheba's Flying Pickle Invasion",
+        "url": "http://Flyingpickleinvasion.com",
+        "feed": null
     },
     {
         "title": "Simply Panda Jenn",
-        "url": "http://pandajenn.thecomicseries.com/",
-        "feed": "http://pandajenn.thecomicseries.com/rss/"
+        "url": "http://pandajenn.thecomicseries.com",
+        "feed": "http://pandajenn.thecomicseries.com/rss"
     },
     {
         "title": "Spazman's Crypt",
