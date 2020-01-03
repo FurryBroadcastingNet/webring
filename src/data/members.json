@@ -14,6 +14,12 @@
         "url": "http://lua.thecomicseries.com",
         "feed": "http://lua.thecomicseries.com/rss"
     },
+    
+        {
+        "title": "PandaJenn Productions",
+        "url": "http://fnreborn.tk/pjenn",
+        "feed": null
+    },
     {
         "title": "Sheba's Flying Pickle Invasion",
         "url": "http://Flyingpickleinvasion.com",
