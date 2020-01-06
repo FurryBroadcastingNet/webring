@@ -20,7 +20,7 @@
     "del": "^3.0.0",
     "gulp": "^4.0.0",
     "gulp-sass": "^4.0.1",
-    "html-minifier": "^3.5.20",
+    "html-minifier": "^4.0.0",
     "netlify-lambda": "^1.1.1",
     "require-dir": "^1.2.0"
   }
