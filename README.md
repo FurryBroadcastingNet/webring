@@ -3,7 +3,8 @@ If interested in starting your own Web Ring, please go fork Max's repo instead o
 
 
 NEWS<br>
-9.10.2019 - Added FurNation to the ring.<br>
+2.28.2020 - Added Aquellex to the ring.<br>
+9.10.2019 - Added FurNation Reborn to the ring.<br>
 9.9.2019 - Temporarily removed some sites due to link code implanation. WIll add them back when added.<br>
 9.7.2019 - Project became a FBN project. Added PandaJenn Productions to the ring.<br>
 9.5.2019 - Added Furryhart Studio, Spazman's Crypt, and The Couch Kitties to the ring.<br>
