@@ -5,11 +5,6 @@
         "feed": null
     },
     {
-        "title": "Felix Ferrett",
-        "url": "https://felixferret.neocities.org",
-        "feed": null
-    },
-    {
         "title": "Foxx Den",
         "url": "http://www.chrisfoxx.com/",
         "feed": null
@@ -20,12 +15,6 @@
         "feed": null
     },
     {
-        "title": "Logan's Untitled Adventures",
-        "url": "http://lua.thecomicseries.com",
-        "feed": "http://lua.thecomicseries.com/rss"
-    },
-    
-        {
         "title": "Panda Jenn Productions",
         "url": "http://fnreborn.tk/pjenn",
         "feed": null
